@@ -9,16 +9,16 @@
 
 ## Usage
 
-    ```shell
+    `
     # create a new Gatsby site using the hello-world starter
     gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
-    ```
+    `
 
   Navigate into your new site’s directory and start it up.
 
-    ```shell
+    `
     gatsby develop
-    ```
+    `
 
 Dev: `http://localhost:8000`
 
