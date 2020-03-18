@@ -9,22 +9,18 @@
 
 ## Usage
 
-
     # create a new Gatsby site using the hello-world starter
     gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
 
-
   Navigate into your new site’s directory and start it up.
 
-
     gatsby develop
-
 
 Dev: `http://localhost:8000`
 
 GraphiQL: _`http://localhost:8000/___graphql`
 
-Admin: `http://localhost:8000\admin\`
+Admin: `http://localhost:8000/admin/`
 
 
 ## 💫 Deploy
