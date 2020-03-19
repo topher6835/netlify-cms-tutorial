@@ -7,6 +7,10 @@
   Gatsby Netlify CMS Tutorial
 </h1>
 
+https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
+
+https://www.gatsbyjs.org/docs/adding-markdown-pages/
+
 ## Usage
 
     # create a new Gatsby site using the hello-world starter
