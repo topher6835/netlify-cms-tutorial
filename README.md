@@ -11,6 +11,8 @@ https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
 
 https://www.gatsbyjs.org/docs/adding-markdown-pages/
 
+https://www.gatsbyjs.org/blog/2017-07-19-creating-a-blog-with-gatsby/
+
 ## Usage
 
     # create a new Gatsby site using the hello-world starter
@@ -25,10 +27,3 @@ Dev: `http://localhost:8000`
 GraphiQL: _`http://localhost:8000/___graphql`
 
 Admin: `http://localhost:8000/admin/`
-
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
-
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
